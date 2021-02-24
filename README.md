@@ -4,10 +4,10 @@
 
 + git clone https://github.com/nandydark/whatsappbomber.git
 
-+ cd whatsappbomber.py
++ cd whatsappbomber
 
-+ chmod +x whatsappbomber.py
++ chmod +x main.py
 
-+ python3 whatsappbomber.py
++ python3 main.py
 
 ## NOTE IT WORKS ONLY IN LAPTOP OR COMPUTER.. NOT IN NOOBY TERMUX SHIT!!
